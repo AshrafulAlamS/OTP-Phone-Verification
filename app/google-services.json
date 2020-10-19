@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "538323805693",
+    "firebase_url": "https://otp-test-44335.firebaseio.com",
+    "project_id": "otp-test-44335",
+    "storage_bucket": "otp-test-44335.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:538323805693:android:910006d9275b6d93c52594",
+        "android_client_info": {
+          "package_name": "com.ashraful.otpphoneverification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "538323805693-jclrodtu7bscp8f4ldfj9jnhrsgmkigt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsMXEIO2infXhHVQ_rQhho89Yj3IRBqq4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "538323805693-jclrodtu7bscp8f4ldfj9jnhrsgmkigt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
